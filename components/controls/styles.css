@@ -1,0 +1,15 @@
+
+.settings-container {
+  padding-left: 2rem ;
+  padding-right: 2rem ;
+  padding-top: 2rem ;
+  margin-right: 2rem;
+  border-right: 1px solid #444;
+  min-width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.settings-container .select {
+  margin-bottom: 1.5rem;
+}
